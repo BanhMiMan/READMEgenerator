@@ -3,6 +3,6 @@ This is my ReadMe Generator using node.js. Users will have to open the terminal,
 Once finished a README with the answered criteria will be generated.
 
 References: 
+https://chat.openai.com/, https://www.youtube.com/watch?v=Pp9IG-prQjE, 
 
 
-Screenshots:
